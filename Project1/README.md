@@ -1,5 +1,5 @@
 # Поиск клиентов с неоптимальными тарифами
-[ipynb](https://github.com/nikus96/MyProjects/blob/main/Project1/279acde1-7dcb-4c86-b26a-8ad7ffc36699%20(1).ipynb)
+[html](https://github.com/nikus96/MyProjects/blob/main/Project1/279acde1-7dcb-4c86-b26a-8ad7ffc36699.html) [ipynb](https://github.com/nikus96/MyProjects/blob/main/Project1/279acde1-7dcb-4c86-b26a-8ad7ffc36699%20(1).ipynb)
 ## Описание проекта
 Требуется выявить клиентов с неоптимальными тарифами и предложить им новый оптимальный тариф
 ## Навыки и инструменты
